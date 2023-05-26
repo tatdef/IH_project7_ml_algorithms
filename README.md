@@ -9,6 +9,53 @@ Ironhack project 7 - machine learning
 - SGDClassifier
 - ComplementNB
 
+## Process 
+
+1. Data discovery 
+
+2. Data cleaning 
+
+3. Data pre-processing/ scaling
+
+4. Feature selection (if needed)
+
+5. Implement your models on your data
+
+6. Do not forget about Hyperparameters tuning
+
+7. Implement AutoML (TPOT) *optional*
+
+8. Compare the results using metrics:
+- accuracy
+- recall
+- precision
+- ROC_AUC score
+- plot ROC_AUC curve
+
+## Expectations
+
+- Clean, well-commented code
+- Clean data with EDA
+- Clear board in Trello with logged time for each task
+- Clear descriprion of each model
+- Models implementation and comparison
+
+## Deliverables
+
+- '1. data.csv with clean and encoded data
+- '2. project7.ipynb' with all code concerning data cleaning and modelling
+- '3. Slides/dashboard/notebook with must-have EDA, each model description (how it works, what the parameters are, what exectly you used) and results (for each model and final table with models comparison).
+- '4. Please state the conclusion about usability of each model.
+- '5. Trello board with logged time.
+
+## Time expectations
+- Data cleaning 2 hours 
+- Data preprocessing (features, scaling) 1 hours
+- Models investigation 3 hours - this task can be splited
+- Models implementation - 2 hours
+- Slides/dashboard/notebook - 2 hours
+- Finalization and "beautification" (github, etc)  - 2 hours
+Average time per person 4-6 hours
 
 
 ## Context
