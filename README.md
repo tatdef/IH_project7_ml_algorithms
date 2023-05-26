@@ -2,29 +2,24 @@
 Ironhack project 7 - machine learning
 
 
-# Group 3:
-- LinearSVC
-- KNeighborsClassifier
+# Models implemented: 
 - PassiveAggressiveClassifier
 - SGDClassifier
 - ComplementNB
 
+Additional models : 
+- LinearSVC
+- KNeighborsClassifier
+
 ## Process 
 
 1. Data discovery 
-
 2. Data cleaning 
-
 3. Data pre-processing/ scaling
-
 4. Feature selection (if needed)
-
 5. Implement your models on your data
-
 6. Do not forget about Hyperparameters tuning
-
 7. Implement AutoML (TPOT) *optional*
-
 8. Compare the results using metrics:
 - accuracy
 - recall
@@ -34,19 +29,23 @@ Ironhack project 7 - machine learning
 
 ## Expectations
 
-- Clean, well-commented code
-- Clean data with EDA
-- Clear board in Trello with logged time for each task
-- Clear descriprion of each model
-- Models implementation and comparison
+- Clean, well-commented code (each one) 
+- Clean data with EDA (tat)
+- Clear board in Trello with logged time for each task (axele)
+- Clear descriprion of each model (each)
+- Models implementation and comparison (done)
 
 ## Deliverables
 
-- '1. data.csv with clean and encoded data
-- '2. project7.ipynb' with all code concerning data cleaning and modelling
-- '3. Slides/dashboard/notebook with must-have EDA, each model description (how it works, what the parameters are, what exectly you used) and results (for each model and final table with models comparison).
+- '1. data.csv with clean and encoded data (tat)
+- '2. project7.ipynb' with all code concerning data cleaning and modelling (each)
+- '3. Slides/dashboard/notebook with must-have EDA, each model description (how it works, what the parameters are, what exectly you used) and results (for each model and final table with models comparison). (each)
 - '4. Please state the conclusion about usability of each model.
 - '5. Trello board with logged time.
+
+So: each person does 2/3 slides for their model description and results, conclusions 
++ one slide on the dataset 
+
 
 ## Time expectations
 - Data cleaning 2 hours 
