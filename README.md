@@ -30,16 +30,16 @@ Additional models (not tested) :
 
 - Clean, well-commented code 
 - Clean data with EDA
-- Clear board in Trello with logged time for each task (axele)
-- Clear descriprion of each model (each)
-- Models implementation and comparison (done)
+- Clear board in Trello with logged time for each task
+- Clear descriprion of each model 
+- Models implementation and comparison
 
 ## Deliverables
 
 - '1. Clean and encoded data: two files, data_corr_dropped and data_low_var_dropped, based on which version is preferred
 - '2. ipynb files with all code concerning EDA, data cleaning and modelling for each of the models
-- '3. Slides with each model description (how it works, what the parameters are, what exactly you used) and results (for each model and **final table with models comparison**). 
-- '4. Please state the **conclusion about usability of each model**.
+- '3. [Slides](https://docs.google.com/presentation/d/1xnBhTANu8ShJo4XyeY1qi4z-Eu7sOYwHqu5UqIHswUo/edit?usp=sharing) with each model description (how it works, what the parameters are, what exactly you used) and results (for each model and final table with models comparison). 
+- '4. Please state the conclusion about usability of each model.
 - '5. Trello board with logged time.
 
 ## Time spent on each task
